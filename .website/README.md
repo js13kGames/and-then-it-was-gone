@@ -1,4 +1,7 @@
 ---
+genres:
+  - platformer
+  - puzzle
 post: https://sebadorn.de/2020/09/27/and-then-it-was-gone-notes-about-developing-my-js13k-entry-of-2020
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
